@@ -1,5 +1,3 @@
-# mapa_app
-
 # Funciones agregadas
 
 - Funcion para insertar en el historial la ubicacion cuando se pone el marcador manualmente.
