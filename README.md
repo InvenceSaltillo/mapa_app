@@ -1,6 +1,10 @@
 # mapa_app
 
-A new Flutter project.
+# Funciones agregadas
+
+- Funcion para insertar en el historial la ubicacion cuando se pone el marcador manualmente.
+- Se centra el mapa en el punto medio del inicio y el destino de la ruta.
+- Se cambia el zoom segun la distancia del recorrido, esto para visualizar mejor la ruta.
 
 ## Getting Started
 
